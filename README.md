@@ -2,4 +2,4 @@
 machine learning projects
 
 list:
-1. Key Value Extraction
+1. Key-Value Extraction
